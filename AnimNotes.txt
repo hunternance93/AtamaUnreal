@@ -1,0 +1,7 @@
+To create anim from Control Rig Pose:
+-Create Level Sequence
+-Add BP_ Character
+-Right click Control Rig Pose asset -> Select Controls
+-Check Key and select add button
+-Repeat on timeline
+-Export by right clicking the Skeletal Mesh and Creating Linked Animation
