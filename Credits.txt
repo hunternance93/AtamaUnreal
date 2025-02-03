@@ -10,7 +10,11 @@ Re-using audio assets from Atama including work by:
 Christopher "Raqus" Rocco
 Michael "slowbeef" Sawyer
 
-MetaHuman
-
 Bandcamp:
 Submerge Emerge by Jochi
+
+FreeSound.org:
+Sheyvan - Watersplash
+
+MetaHuman
+
