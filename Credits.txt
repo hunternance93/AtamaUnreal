@@ -1,20 +1,34 @@
-omEpic Games Fab Store:
-robert ramsay - Big Crate 
+Game by Hunter Nance
+
+Music
+Jonny McBane
+
+Epic Games Fab Store:
 Meshingun Studio - Feudal Japan Megapack
+Meshingun Studio - Foliage Pack
+robert ramsay - Big Crate 
+Project Nature - Forest Landscape Materials
+Dwarven Curse - Japanese Masks
+PROTOFACTOR INC - ANIMAL VARIETY PACK
 
 Unity Asset Store
 Snowforge - golden jewelry use as necklace / bracelet / ring
 Gnarly Potato - Old Coin
-
-Re-using audio assets from Atama including work by:
-Christopher "Raqus" Rocco
-Michael "slowbeef" Sawyer
 
 Bandcamp:
 Submerge Emerge by Jochi
 
 FreeSound.org:
 Sheyvan - Watersplash
+dheming - Wood_Creak_02.wav
+Greg_Surr - Creaking Wood 10.wav
+
+Re-using audio assets from "Atama" including work by:
+Christopher "Raqus" Rocco
+Michael "slowbeef" Sawyer
+Jesse "Plasticmind" Gardner
+and many FreeSound.org users and other Sound Libraries (see Atama credits for full list)
 
 MetaHuman
 
+Special Thanks to the original Team Zutsuu 
